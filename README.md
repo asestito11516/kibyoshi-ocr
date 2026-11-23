@@ -1,0 +1,1 @@
+This project uses NDL Kotenseki OCR-Lite, developed by the National Diet Library of Japan and licensed under CC BY 4.0. The original software is available at https://github.com/ndl-lab/ndlkotenocr-lite. Modifications were made to src/ocr.py for this research project.
